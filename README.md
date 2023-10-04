@@ -44,6 +44,17 @@ Starting Scan For 192.168.1.1
 [+] Port 80 Opened
 ...
 ```
+## Disclaimer
+
+Please use this script responsibly and ensure that you have the right to scan the target in question.
+
+The authors and contributors of this script are not responsible for any misuse or legal consequences that may arise from its use.
+
+## License
+
+This script is open-source software licensed under the [MIT License] Feel free to use, modify, and distribute it as per the terms of the license.
+
+---
 
 ## License
 
